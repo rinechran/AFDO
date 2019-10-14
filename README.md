@@ -1,0 +1,2 @@
+# AFDO
+AWS-FUCK-DynamoDB-ORM
